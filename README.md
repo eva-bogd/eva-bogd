@@ -1,12 +1,20 @@
-#### Привет 👋 Меня зовут Евгения
+#### Привет 👋, меня зовут Евгения.
 
-Я начинающий backend-разработчик на Python 🐍. Ищу возможности для роста и обучения в данной сфере.
+Я начинающий Python-разработчик, стремящийся к профессиональному развитию и приобретению практического опыта в сфере backend-разработки.
+_________________________________________________________________________
 
 #### Технологии:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-2C2E5B?logo=python&logoColor=yellow&color=306998)
+![Django](https://img.shields.io/badge/Django-green?logo=django&color=green)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-green?logo=django&color=green)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=sql&color=orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&color=grey)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&color=grey)
+![Git](https://img.shields.io/badge/Git-black?logo=git&color=black)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&color=grey)
+
+_________________________________________________________________________
 
 #### Контакты:
 
