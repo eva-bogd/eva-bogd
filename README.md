@@ -5,7 +5,7 @@ ______________________________________________________________________
 #### Технологии:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=FFD43B)
 ![Django](https://img.shields.io/badge/Django-green?logo=django&style=for-the-badge)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-green?logo=django&style=for-the-badge)
+![DRF](https://img.shields.io/badge/DRF-green?logo=django&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=sql&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
